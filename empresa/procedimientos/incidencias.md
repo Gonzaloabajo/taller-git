@@ -12,9 +12,6 @@ Cuando alguien avisa de un problema:
 |-------|--------|----------|----------|---------|
 | 06/10/2026 | pc-admin-02 | No arranca: pantalla negra | Cable de vídeo suelto | Javi |
 | 07/10/2026 | imp-recepcion | Atasco de papel continuo | Cambiado el rodillo de arrastre | Ana |
-| 08/10/2026 | pc-recepcion | Va muy lento al abrir el correo | Pendiente: valorar ampliar la RAM | Javi |
-<<<<<<< HEAD
+| 08/10/2026 | pc-recepcion | Va muy lento al abrir el correo | RAM ampliada a 16 GB | Javi |
 | 22/10/2026 | pc-aula2-05 | Problema de teclado | Sustitución de teclado | Vynk |
-=======
 | 22/10/2026 | pc-aula1-03 | No funciona el ratón | Cambio de puerto USB | Gonzalo |
->>>>>>> c8b924596227cb319c21801325a380e9cb5a530e
